@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>Marche.qml</file>
+        <file>uma.js</file>
     </qresource>
 </RCC>
